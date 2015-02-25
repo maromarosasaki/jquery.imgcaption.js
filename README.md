@@ -5,10 +5,12 @@
 使い方
 ==================
 下記のように使います。
+
     $('.imgcaption').imgcaption();
 
 
 オプションを設定する場合
+
     $('.imgcaption_op').imgcaption({
       bgcolor:'#fff',
       textcolor:'#000'
