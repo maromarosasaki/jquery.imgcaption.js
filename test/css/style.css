@@ -1,0 +1,17 @@
+/*--------------------------------------
+スタイル
+---------------------------------------*/
+@import url(http://fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+body{
+  font-family:'Noto Sans Japanese';
+}
+h1{
+  background: #CCC;
+  padding: 10px;
+}
+.block01 {
+  padding: 10px;
+}
+img{
+  border: 3px solid #333;
+}
